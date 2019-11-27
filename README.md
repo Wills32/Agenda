@@ -5,6 +5,11 @@
 
 ### About this project 
 
+The Appointment Schedule created using JavaScript, PHP, HTML, CSS and the frameworks Bootstrap and Fullcalendar.
+
+This project will have a home screen that will show the events recorded, a button for adding new events and another for a calendar link. In the calendar you can add a new events and change or delete the old ones.  
+
+Note:This project is under construction.
 
 ### Version
 
