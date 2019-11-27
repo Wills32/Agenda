@@ -26,7 +26,7 @@
 </head>
 <body>
 	<div class = "container" >
-		<div class ="jumbotron"> <h1>Calendário de Eventos</h1>  </div>
+		<div class ="jumbotron"> <h1>Agenda de Eventos</h1>  </div>
 		<div class="row">
 			<div class="col-sm-6">
                 <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#cadastrar">Registrar Evento</button>
