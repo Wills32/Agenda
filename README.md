@@ -14,7 +14,7 @@
 
 ### Getting Started 
 
-In order to use this application you will need to install the appache WebServer and MySQL. To do This project XAMPP is Installed in my computer
+In order to use this application you will need to install the appache WebServer and MySQL. To do This project XAMPP was Installed in my computer
 
 [XAMPP](https://www.apachefriends.org/download.html) - Link to Donwload
 
